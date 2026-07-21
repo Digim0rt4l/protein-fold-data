@@ -274,39 +274,20 @@
     }
   ],
   "claims": {
-    "u0": {
-      "clientId": "dev-6f1bbc20mrunqyr4",
-      "claimedAt": "2026-07-21T13:32:46.865Z",
-      "expiresAt": "2026-07-21T14:12:46.866Z"
-    },
-    "u1": {
-      "clientId": "dev-lrdxvp2cmruptiqh",
-      "claimedAt": "2026-07-21T13:56:06.063Z",
-      "expiresAt": "2026-07-21T14:36:06.083Z"
-    },
-    "u2": {
-      "clientId": "dev-fc44gbu8mruq16tk",
-      "claimedAt": "2026-07-21T14:00:48.425Z",
-      "expiresAt": "2026-07-21T14:40:48.425Z"
-    },
     "u3": {
       "clientId": "dev-5terok50mruq38rk",
       "claimedAt": "2026-07-21T14:09:18.442Z",
       "expiresAt": "2026-07-21T14:49:18.444Z"
-    },
-    "u4": {
-      "clientId": "dev-67r1481zmruqg5zn",
-      "claimedAt": "2026-07-21T14:12:39.853Z",
-      "expiresAt": "2026-07-21T14:52:39.853Z"
     }
   },
   "stats": {
-    "totalCompleted": 95,
+    "totalCompleted": 96,
     "totalAccepted": 39,
     "contributors": {
-      "dev-6f1bbc20mrunqyr4": 95
+      "dev-6f1bbc20mrunqyr4": 95,
+      "dev-67r1481zmruqg5zn": 1
     },
     "createdAt": "2026-07-21T13:07:55.479Z",
-    "lastUpdated": "2026-07-21T13:31:55.517Z"
+    "lastUpdated": "2026-07-21T14:42:44.187Z"
   }
 }
