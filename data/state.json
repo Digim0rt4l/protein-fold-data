@@ -273,21 +273,15 @@
       "end": 42
     }
   ],
-  "claims": {
-    "u0": {
-      "clientId": "dev-67r1481zmruqg5zn",
-      "claimedAt": "2026-07-21T20:43:44.110Z",
-      "expiresAt": "2026-07-21T21:23:44.128Z"
-    }
-  },
+  "claims": {},
   "stats": {
-    "totalCompleted": 108,
+    "totalCompleted": 109,
     "totalAccepted": 46,
     "contributors": {
       "dev-6f1bbc20mrunqyr4": 95,
-      "dev-67r1481zmruqg5zn": 13
+      "dev-67r1481zmruqg5zn": 14
     },
     "createdAt": "2026-07-21T13:07:55.479Z",
-    "lastUpdated": "2026-07-21T20:43:42.063Z"
+    "lastUpdated": "2026-07-21T21:13:47.040Z"
   }
 }
