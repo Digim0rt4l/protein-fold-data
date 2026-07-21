@@ -539,7 +539,13 @@
       "submittedAt": "2026-07-21T23:21:13.812Z"
     }
   ],
-  "claims": {},
+  "claims": {
+    "54064cd2-6d4e-4fef-b7c5-1ead7e1e28c0": {
+      "clientId": "dev-qcalcqremrv7wic1",
+      "claimedAt": "2026-07-21T23:21:16.259Z",
+      "expiresAt": "2026-07-22T00:01:16.263Z"
+    }
+  },
   "stats": {
     "totalCompleted": 2,
     "totalAccepted": 1,
