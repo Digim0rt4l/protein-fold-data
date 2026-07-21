@@ -283,6 +283,11 @@
       "clientId": "dev-lrdxvp2cmruptiqh",
       "claimedAt": "2026-07-21T13:56:06.063Z",
       "expiresAt": "2026-07-21T14:36:06.083Z"
+    },
+    "u2": {
+      "clientId": "dev-fc44gbu8mruq16tk",
+      "claimedAt": "2026-07-21T14:00:48.425Z",
+      "expiresAt": "2026-07-21T14:40:48.425Z"
     }
   },
   "stats": {
