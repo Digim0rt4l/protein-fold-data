@@ -273,7 +273,13 @@
       "end": 42
     }
   ],
-  "claims": {},
+  "claims": {
+    "u0": {
+      "clientId": "dev-67r1481zmruqg5zn",
+      "claimedAt": "2026-07-21T19:43:34.427Z",
+      "expiresAt": "2026-07-21T20:23:34.435Z"
+    }
+  },
   "stats": {
     "totalCompleted": 106,
     "totalAccepted": 46,
