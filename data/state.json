@@ -881,7 +881,13 @@
       "submittedAt": "2026-07-22T00:47:03.040Z"
     }
   ],
-  "claims": {},
+  "claims": {
+    "df117dba-909e-4925-8724-1da98882172a": {
+      "clientId": "dev-xp0mgk7lmrvdlx6d",
+      "claimedAt": "2026-07-22T02:01:08.859Z",
+      "expiresAt": "2026-07-22T02:41:08.861Z"
+    }
+  },
   "stats": {
     "totalCompleted": 3,
     "totalAccepted": 2,
