@@ -670,6 +670,11 @@
       "clientId": "dev-nepstvz4mrvaxldp",
       "claimedAt": "2026-07-22T01:01:45.515Z",
       "expiresAt": "2026-07-22T01:41:45.515Z"
+    },
+    "e40c15a0-a12d-42ea-b221-1efffc72f7fb": {
+      "clientId": "dev-xp0mgk7lmrvdlx6d",
+      "claimedAt": "2026-07-22T01:31:02.769Z",
+      "expiresAt": "2026-07-22T02:11:02.770Z"
     }
   },
   "stats": {
