@@ -2825,7 +2825,13 @@
       "submittedAt": "2026-07-22T21:26:37.592Z"
     }
   ],
-  "claims": {},
+  "claims": {
+    "a9b04b71-7b62-4eba-a3fd-b3c97c60aab5": {
+      "clientId": "dev-ioxrvttcmrvlqrhs",
+      "claimedAt": "2026-07-22T23:22:27.537Z",
+      "expiresAt": "2026-07-23T00:02:27.548Z"
+    }
+  },
   "stats": {
     "totalCompleted": 80,
     "totalAccepted": 13,
