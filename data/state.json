@@ -2835,6 +2835,11 @@
       "clientId": "dev-745art2wmrvtyvgb",
       "claimedAt": "2026-07-22T08:38:52.818Z",
       "expiresAt": "2026-07-22T09:18:52.820Z"
+    },
+    "08b47fee-29a4-49c2-88d4-744e1a9edf2b": {
+      "clientId": "dev-ioxrvttcmrvlqrhs",
+      "claimedAt": "2026-07-22T08:49:21.768Z",
+      "expiresAt": "2026-07-22T09:29:21.774Z"
     }
   },
   "stats": {
