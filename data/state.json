@@ -1097,7 +1097,13 @@
       "submittedAt": "2026-07-22T00:47:03.040Z"
     }
   ],
-  "claims": {},
+  "claims": {
+    "93f75f38-44f3-4197-baef-99aa3539b1b6": {
+      "clientId": "dev-xp0mgk7lmrvdlx6d",
+      "claimedAt": "2026-07-22T02:31:14.856Z",
+      "expiresAt": "2026-07-22T03:11:14.875Z"
+    }
+  },
   "stats": {
     "totalCompleted": 4,
     "totalAccepted": 3,
