@@ -2609,7 +2609,13 @@
       "submittedAt": "2026-07-22T00:47:03.040Z"
     }
   ],
-  "claims": {},
+  "claims": {
+    "b258beb0-0272-4bb6-9e73-581728504bf9": {
+      "clientId": "dev-ioxrvttcmrvlqrhs",
+      "claimedAt": "2026-07-22T05:48:42.707Z",
+      "expiresAt": "2026-07-22T06:28:42.708Z"
+    }
+  },
   "stats": {
     "totalCompleted": 11,
     "totalAccepted": 3,
