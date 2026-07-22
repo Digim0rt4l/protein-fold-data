@@ -2840,6 +2840,11 @@
       "clientId": "dev-9f79r6bgmrvq88wx",
       "claimedAt": "2026-07-22T08:24:20.773Z",
       "expiresAt": "2026-07-22T09:04:20.775Z"
+    },
+    "8cb13fa2-a0d1-45ce-9c10-dcddc4937836": {
+      "clientId": "dev-745art2wmrvtyvgb",
+      "claimedAt": "2026-07-22T08:38:52.818Z",
+      "expiresAt": "2026-07-22T09:18:52.820Z"
     }
   },
   "stats": {
