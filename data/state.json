@@ -1791,6 +1791,11 @@
       "clientId": "dev-gsx4hadymrwr00s3",
       "claimedAt": "2026-07-23T01:03:36.317Z",
       "expiresAt": "2026-07-23T01:43:36.318Z"
+    },
+    "47d5dfb4-a6fd-45ee-b6bc-6124751bfa56": {
+      "clientId": "dev-b1o1pv8vmrwqgx8f",
+      "claimedAt": "2026-07-23T01:19:29.350Z",
+      "expiresAt": "2026-07-23T01:59:29.367Z"
     }
   },
   "stats": {
