@@ -919,6 +919,11 @@
       "clientId": "dev-b1o1pv8vmrwqgx8f",
       "claimedAt": "2026-07-23T00:19:17.760Z",
       "expiresAt": "2026-07-23T00:59:17.760Z"
+    },
+    "d588ae38-9a78-4c56-a4d2-000e8e629e4a": {
+      "clientId": "dev-gsx4hadymrwr00s3",
+      "claimedAt": "2026-07-23T00:33:30.247Z",
+      "expiresAt": "2026-07-23T01:13:30.261Z"
     }
   },
   "stats": {
