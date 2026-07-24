@@ -3844,15 +3844,9 @@
       "submittedAt": "2026-07-24T17:01:54.286Z"
     }
   ],
-  "claims": {
-    "f70fbf85-fcd8-4177-b2b8-ce4d1d6ac79d": {
-      "clientId": "dev-mblyx7npmrx3jeev",
-      "claimedAt": "2026-07-24T19:02:26.813Z",
-      "expiresAt": "2026-07-24T19:42:26.813Z"
-    }
-  },
+  "claims": {},
   "stats": {
-    "totalCompleted": 281,
+    "totalCompleted": 282,
     "totalAccepted": 14,
     "contributors": {
       "dev-b1o1pv8vmrwqgx8f": 11,
@@ -3861,10 +3855,10 @@
       "dev-3y75ed9cmrx1incx": 5,
       "dev-lban9szfmrx3kgrb": 76,
       "dev-be27k8k4mrx3m5o1": 76,
-      "dev-mblyx7npmrx3jeev": 74,
+      "dev-mblyx7npmrx3jeev": 75,
       "dev-blddpamnmrxi2e8q": 20
     },
     "createdAt": "2026-07-22T23:48:45.664Z",
-    "lastUpdated": "2026-07-24T19:32:30.700Z"
+    "lastUpdated": "2026-07-24T19:32:32.013Z"
   }
 }
