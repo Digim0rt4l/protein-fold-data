@@ -3844,7 +3844,13 @@
       "submittedAt": "2026-07-24T14:31:14.686Z"
     }
   ],
-  "claims": {},
+  "claims": {
+    "7d1ce07b-cbcf-4a6b-a103-9cf78a4d61bf": {
+      "clientId": "dev-be27k8k4mrx3m5o1",
+      "claimedAt": "2026-07-24T16:01:42.348Z",
+      "expiresAt": "2026-07-24T16:41:42.348Z"
+    }
+  },
   "stats": {
     "totalCompleted": 261,
     "totalAccepted": 14,
