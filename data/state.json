@@ -3854,6 +3854,11 @@
       "clientId": "dev-dsqfqagymsizfdd2",
       "claimedAt": "2026-08-07T18:31:10.604Z",
       "expiresAt": "2026-08-07T19:11:10.604Z"
+    },
+    "1adf4288-4047-48b2-9412-df544590022a": {
+      "clientId": "dev-mr1kpko2msixez57",
+      "claimedAt": "2026-08-07T18:34:44.941Z",
+      "expiresAt": "2026-08-07T19:14:44.941Z"
     }
   },
   "stats": {
