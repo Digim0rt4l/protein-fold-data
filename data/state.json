@@ -3705,7 +3705,7 @@
         },
         {
           "phi": -2468.7952815024114,
-          "psi": -2008.7405320873277,
+          "psi": -2003.3108995812795,
           "chi1": 900.6096525370483,
           "chi2": 422.1421659872778,
           "chi3": 130.93278818763793,
@@ -3728,7 +3728,7 @@
           "chi4": 75.01318671740592
         },
         {
-          "phi": -55.247050420249835,
+          "phi": -57.359953791240684,
           "psi": -47.75824971672623,
           "chi1": -659.695975151852,
           "chi2": 419.43082900668884,
@@ -3840,16 +3840,11 @@
           "chi4": -48.32999258302152
         }
       ],
-      "energy": 0.5685785191427444,
-      "submittedAt": "2026-07-25T14:36:29.185Z"
+      "energy": 0.5568054571534735,
+      "submittedAt": "2026-08-07T14:04:07.747Z"
     }
   ],
   "claims": {
-    "34fa450a-be9f-4aae-a9a6-eb71718c27ee": {
-      "clientId": "dev-mr1kpko2msixez57",
-      "claimedAt": "2026-08-07T13:34:05.455Z",
-      "expiresAt": "2026-08-07T14:14:05.455Z"
-    },
     "ceb3efca-e1fa-400f-887a-e985df871fc3": {
       "clientId": "dev-zqui499amsix8asl",
       "claimedAt": "2026-08-07T13:59:13.780Z",
@@ -3862,7 +3857,7 @@
     }
   },
   "stats": {
-    "totalCompleted": 431,
+    "totalCompleted": 432,
     "totalAccepted": 20,
     "contributors": {
       "dev-b1o1pv8vmrwqgx8f": 11,
@@ -3875,10 +3870,10 @@
       "dev-blddpamnmrxi2e8q": 20,
       "dev-2c92r85vms10q5nc": 4,
       "dev-zqui499amsix8asl": 3,
-      "dev-mr1kpko2msixez57": 2,
+      "dev-mr1kpko2msixez57": 3,
       "dev-dsqfqagymsizfdd2": 1
     },
     "createdAt": "2026-07-22T23:48:45.664Z",
-    "lastUpdated": "2026-08-07T14:00:31.205Z"
+    "lastUpdated": "2026-08-07T14:04:07.747Z"
   }
 }
