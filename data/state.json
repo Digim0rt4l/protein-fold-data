@@ -3844,25 +3844,9 @@
       "submittedAt": "2026-08-07T23:11:10.441Z"
     }
   ],
-  "claims": {
-    "701d3b68-7eba-48a0-adc7-4249250f30aa": {
-      "clientId": "dev-mr1kpko2msixez57",
-      "claimedAt": "2026-08-08T02:35:48.878Z",
-      "expiresAt": "2026-08-08T03:15:48.894Z"
-    },
-    "cb511039-86cc-4257-bc34-13acba25d966": {
-      "clientId": "dev-tvuay4gomsjletrk",
-      "claimedAt": "2026-08-08T02:46:18.574Z",
-      "expiresAt": "2026-08-08T03:26:18.575Z"
-    },
-    "99a914f2-9c1a-44c9-b806-dc6b4c6bebe9": {
-      "clientId": "dev-zqui499amsix8asl",
-      "claimedAt": "2026-08-08T03:01:44.364Z",
-      "expiresAt": "2026-08-08T03:41:44.381Z"
-    }
-  },
+  "claims": {},
   "stats": {
-    "totalCompleted": 508,
+    "totalCompleted": 509,
     "totalAccepted": 22,
     "contributors": {
       "dev-b1o1pv8vmrwqgx8f": 11,
@@ -3874,12 +3858,12 @@
       "dev-mblyx7npmrx3jeev": 136,
       "dev-blddpamnmrxi2e8q": 20,
       "dev-2c92r85vms10q5nc": 4,
-      "dev-zqui499amsix8asl": 29,
+      "dev-zqui499amsix8asl": 30,
       "dev-mr1kpko2msixez57": 28,
       "dev-dsqfqagymsizfdd2": 20,
       "dev-tvuay4gomsjletrk": 6
     },
     "createdAt": "2026-07-22T23:48:45.664Z",
-    "lastUpdated": "2026-08-08T03:01:42.365Z"
+    "lastUpdated": "2026-08-08T03:31:47.596Z"
   }
 }
