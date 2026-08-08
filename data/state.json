@@ -3844,7 +3844,13 @@
       "submittedAt": "2026-08-07T23:11:10.441Z"
     }
   ],
-  "claims": {},
+  "claims": {
+    "7f8f25d4-462e-4650-ba06-e80c93b65204": {
+      "clientId": "dev-zqui499amsix8asl",
+      "claimedAt": "2026-08-08T04:32:00.886Z",
+      "expiresAt": "2026-08-08T05:12:00.901Z"
+    }
+  },
   "stats": {
     "totalCompleted": 511,
     "totalAccepted": 22,
