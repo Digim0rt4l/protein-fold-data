@@ -3849,6 +3849,11 @@
       "clientId": "dev-6urfo0llmsjyag09",
       "claimedAt": "2026-08-08T12:47:44.540Z",
       "expiresAt": "2026-08-08T13:27:44.559Z"
+    },
+    "494a4152-cd10-4bc1-9ca0-d9e6b06ede1d": {
+      "clientId": "dev-zqui499amsix8asl",
+      "claimedAt": "2026-08-08T13:03:34.618Z",
+      "expiresAt": "2026-08-08T13:43:34.620Z"
     }
   },
   "stats": {
